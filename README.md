@@ -26,11 +26,18 @@
 
 [제작 시연 영상]: https://m.youtube.com/watch?v=fFXaWz4HeIs&list=PLedGoSru794-KgmCF7BvggtHcqj9RvLta&index=2&pp=iAQB
 
+아이디 찾기 화면
 
 ![아이디 찾기](https://github.com/Lateaksoo/Dogcat/blob/master/README_Image/1.png)
 
+중복검사 화면
+
 ![중복검사](https://github.com/Lateaksoo/Dogcat/blob/master/README_Image/2.png)
 
+이메일 본인인증 화면
+
 ![이메일 본인인증 화면](https://github.com/Lateaksoo/Dogcat/blob/master/README_Image/3.png)
+
+동물병원 지도 화면 
 
 ![동물병원 지도 화면](https://github.com/Lateaksoo/Dogcat/blob/master/README_Image/4.png)
