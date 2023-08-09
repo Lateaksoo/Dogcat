@@ -21,8 +21,11 @@
 - Naver 지도 API 활용하여 동물병원을 지도에 마커로 표시
 - 애완동물의 권장 칼로리 계산 
 
+<br>
 
-[제작 시연 영상]
+### **[제작 시연 영상]**
+
+<br>
 
 [제작 시연 영상]: https://m.youtube.com/watch?v=fFXaWz4HeIs&list=PLedGoSru794-KgmCF7BvggtHcqj9RvLta&index=2&pp=iAQB
 
