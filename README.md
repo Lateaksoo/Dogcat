@@ -34,7 +34,7 @@
 
 발표자료 PPT
 
-![발표자료](.README_Image/DogCatPPT.gif)
+![발표자료](./README_Image/DogCatPPT.gif)
 
 아이디 찾기 화면
 
