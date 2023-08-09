@@ -29,6 +29,13 @@
 
 [제작 시연 영상]: https://m.youtube.com/watch?v=fFXaWz4HeIs&list=PLedGoSru794-KgmCF7BvggtHcqj9RvLta&index=2&pp=iAQB
 
+<br>
+<br>
+
+발표자료 PPT
+
+![발표자료](.README_Image/DogCatPPT.gif)
+
 아이디 찾기 화면
 
 ![아이디 찾기](https://github.com/Lateaksoo/Dogcat/blob/master/README_Image/1.png)
